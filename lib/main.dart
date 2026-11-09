@@ -184,7 +184,7 @@ class _WebPageState extends State<WebPage> {
     );
   }
 }
-
+-
 class _ErrorView extends StatelessWidget {
   final VoidCallback onRetry;
   const _ErrorView({required this.onRetry});
