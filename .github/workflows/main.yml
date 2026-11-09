@@ -5,9 +5,9 @@ import 'package:permission_handler/permission_handler.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
-const String kAppName = 'Manikganj Police';
+const String kAppName = 'Even Calender';
 const String kStartUrl =
-    'https://script.google.com/macros/s/AKfycbyRCPyJE5sL0LnW2ir-SaahgSWUX-v2_DM8CCm6OUC_dn5THLS5jC-g03V_lb5LAvZC/exec';
+    'https://script.google.com/macros/s/AKfycbx10qxP0XUh3Yke0J2pU2mmDeHxSpeC4UbhluBQv6OJeOeeDXTZDrGEjOkrD_QzdhDq/exec';
 const Color kPrimary = Color(0xFF0B2D72);
 
 void main() {
